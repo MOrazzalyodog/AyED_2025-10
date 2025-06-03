@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8A246DF0-4A1C-4F7E-A1E1-81D5ADD1B856}</ProjectGuid>
+    <ProjectGuid>{2B1F4800-D5E6-497E-9DEA-80FF47863514}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_1_PC10_14</RootNamespace>
-    <AssemblyName>1_PC10_14</AssemblyName>
+    <RootNamespace>_1_PC10_15</RootNamespace>
+    <AssemblyName>1_PC10_15</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
