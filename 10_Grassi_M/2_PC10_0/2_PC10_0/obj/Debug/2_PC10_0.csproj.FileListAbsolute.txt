@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\bin\Debug\2_PC10_0.exe.config
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\bin\Debug\2_PC10_0.exe
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\bin\Debug\2_PC10_0.pdb
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\obj\Debug\2_PC10_0.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\obj\Debug\2_PC10_0.exe
-C:\Users\alumno.ET37\Desktop\2_PC10_0\2_PC10_0\obj\Debug\2_PC10_0.pdb
