@@ -1,0 +1,7 @@
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\bin\Debug\2_PC10_7.exe.config
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\bin\Debug\2_PC10_7.exe
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\bin\Debug\2_PC10_7.pdb
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\obj\Debug\2_PC10_7.csproj.AssemblyReference.cache
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\obj\Debug\2_PC10_7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\obj\Debug\2_PC10_7.exe
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\2_PC10_7\obj\Debug\2_PC10_7.pdb
