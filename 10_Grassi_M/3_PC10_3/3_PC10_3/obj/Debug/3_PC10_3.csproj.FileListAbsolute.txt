@@ -1,0 +1,6 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\bin\Debug\3_PC10_3.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\bin\Debug\3_PC10_3.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\bin\Debug\3_PC10_3.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\obj\Debug\3_PC10_3.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\obj\Debug\3_PC10_3.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\3_PC10_3\3_PC10_3\obj\Debug\3_PC10_3.pdb
