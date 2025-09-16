@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\bin\Debug\3_PC10_4Nivel4.exe.config
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\obj\Debug\3_PC10_4Nivel4.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\bin\Debug\3_PC10_4Nivel4.exe
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\bin\Debug\3_PC10_4Nivel4.pdb
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\obj\Debug\3_PC10_4Nivel4.exe
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel4\3_PC10_4Nivel4\obj\Debug\3_PC10_4Nivel4.pdb

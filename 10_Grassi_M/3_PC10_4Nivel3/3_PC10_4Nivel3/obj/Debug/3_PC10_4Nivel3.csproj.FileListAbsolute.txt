@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel3\3_PC10_4Nivel3\bin\Debug\3_PC10_4Nivel3.exe.config
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel3\3_PC10_4Nivel3\bin\Debug\3_PC10_4Nivel3.exe
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel3\3_PC10_4Nivel3\bin\Debug\3_PC10_4Nivel3.pdb
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel3\3_PC10_4Nivel3\obj\Debug\3_PC10_4Nivel3.exe
+C:\Users\alumno.ET37\Desktop\3_PC10_4Nivel3\3_PC10_4Nivel3\obj\Debug\3_PC10_4Nivel3.pdb
