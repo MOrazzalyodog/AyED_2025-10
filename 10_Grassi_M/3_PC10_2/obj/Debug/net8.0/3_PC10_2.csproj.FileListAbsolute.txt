@@ -1,0 +1,14 @@
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\bin\Debug\net8.0\3_PC10_2.exe
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\bin\Debug\net8.0\3_PC10_2.deps.json
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\bin\Debug\net8.0\3_PC10_2.runtimeconfig.json
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\bin\Debug\net8.0\3_PC10_2.dll
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\bin\Debug\net8.0\3_PC10_2.pdb
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.AssemblyInfoInputs.cache
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.AssemblyInfo.cs
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.dll
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\refint\3_PC10_2.dll
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.pdb
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\3_PC10_2.genruntimeconfig.cache
+C:\Users\Admin\Juani\Escritorio\grassi\C#\tps\3_PC10_2\obj\Debug\net8.0\ref\3_PC10_2.dll
