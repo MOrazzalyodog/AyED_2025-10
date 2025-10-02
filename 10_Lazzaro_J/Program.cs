@@ -4,63 +4,93 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication1
+namespace _3_PC10_77
 {
     class Program
     {
+        static string[,] personaje = new string[20, 5];
+        static int contadorp = 0;
         static void Main(string[] args)
         {
-            Console.WriteLine("Elija la opcion:");
-            string op = Console.ReadLine();
-            Console.WriteLine("escriba el valor 1:");
-            int a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el valor 2:");
-            int b = int.Parse(Console.ReadLine());
+            
 
-            calculadora(a, b, op);
-
+            Console.WriteLine(CrearPers());
+            Buscador();
             Console.ReadKey();
         }
-
-        static int sumar(int a, int b)
+        static string CrearPers()
         {
-            return a + b;
+            bool esheroe;
 
-        }
 
-        static int restar(int a, int b)
-        {
-            return a - b;
-        }
+            
+            Console.WriteLine("escriba el nombre del nuevo personaje");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("escriba la saga dell personaje");
+            string saga = Console.ReadLine();
+            Console.WriteLine("escriba la fuerza del personaje");
+            string fuerza = Console.ReadLine();
+            Console.WriteLine("escriba la defensa del personaje");
+            string defensa = Console.ReadLine();
+            Console.WriteLine("escriba  s  si  es heroe el personaje, sino escriba n ");
+            string s = Console.ReadLine() ;
+            
 
-        static int multiplicar(int a, int b)
-        {
-            return a * b;
-        }
 
-        static int dividir(int a, int b)
-        {
-            return a / b;
-        }
 
-        static void calculadora(int a, int b, string op)
-        {
-            switch (op)
+            if (s == "s" )
             {
-                case "sumar":
-                    Console.WriteLine(sumar(a, b));
-                    break;
-                case "restar":
-                    Console.WriteLine(restar(a, b));
-                    break;
-                case "multiplicar":
-                    Console.WriteLine(multiplicar(a, b));
-                    break;
-                case "dividir":
-                    Console.WriteLine(dividir(a, b));
-                    break;
+                 esheroe = true;
             }
-        }
+            else
+            {
+                esheroe = false;
+            }
 
+            personaje[contadorp, 0] = nombre;
+            personaje[contadorp, 1] = saga;
+            personaje[contadorp, 2] = fuerza;
+            personaje[contadorp, 3] = defensa;
+            personaje[contadorp, 4] = esheroe.ToString();
+
+            if (contadorp > 20)
+            {
+                Console.WriteLine("no podes crear mas personajes");
+            }
+            else
+            {
+                contadorp++;
+            }
+
+            return "El personaje ha sido agregado" ;
+        }
+        static string Buscador()
+        {
+
+            Console.WriteLine("Buscar personaje por nombre:");
+            string nombreBuscado = Console.ReadLine();
+
+            bool encontrado = false;
+
+            for (int i = 0; i < contadorp; i++)
+            {
+                if (personaje[i, 0] == nombreBuscado)
+                {
+                    Console.WriteLine($"Nombre: {personaje[i, 0]}");
+                    Console.WriteLine($"Saga: {personaje[i, 1]}");
+                    Console.WriteLine($"Fuerza: {personaje[i, 2]}");
+                    Console.WriteLine($"Defensa: {personaje[i, 3]}");
+                    Console.WriteLine($"¿Héroe?: {personaje[i, 4]}");
+                    encontrado = true;
+                    break;
+                }
+            }
+
+            if (!encontrado)
+            {
+                Console.WriteLine("Personaje no encontrado.");
+            }
+            return "Personaje buscado";
+        }
     }
 }
